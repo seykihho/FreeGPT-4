@@ -18,7 +18,7 @@ Experience the power of ChatGPT with a user-friendly interface, enhanced jailbre
 **Important!** Don't be afraid to ask a question or write about any problem in the "issue".  
 We will solve a question or a problem together! 🌍  
 
-You can [buy me coffee](https://www.donationalerts.com/r/vadimboevdev) here ☕🤎
+More Info [Watch Now](https://www.youtube.com/channel/UC1weYqfDgX0ALlNOSzcyblQ?sub_confirmation=1).
 
 ## Known bugs 🚧
 - Copying highlighted Text not working.
@@ -26,12 +26,6 @@ You can [buy me coffee](https://www.donationalerts.com/r/vadimboevdev) here ☕�
 ## Features v2 📢
 - Updated g4f
 - Fixes to make everything work
-
-## Project Hosting and Demonstration 🌐🚀
-The project is hosted on multiple platforms to be tested and modified.
-|Platform|Status|API Key|Free|Repo|Demo|
-|--|--|--|--|--|--|
-|[My site](http://vadimboev.ru:1338/)|![Active](https://img.shields.io/badge/Active-brightgreen)|◼️|☑️|[FreeGPT WebUI](https://github.com/VadimBoev/freegpt-webui-v2)|[Chat](http://vadimboev.ru:1338/)
 
 ## Table of Contents  
 - [To-Do List](#to-do-list-%EF%B8%8F)  
